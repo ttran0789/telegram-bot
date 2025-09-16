@@ -2,6 +2,8 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+**⚠️ IMPORTANT: Keep this file updated as the project evolves and new features are added.**
+
 ## Project Overview
 
 This is a Python Telegram bot project. The bot will be built using the `python-telegram-bot` library.
